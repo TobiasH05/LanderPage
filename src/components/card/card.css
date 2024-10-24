@@ -10,6 +10,7 @@
     text-decoration: none;
     border: #fff;
     border-radius: 5px;
+    place-self: center;
 }
 
 .Card:hover{
