@@ -1,7 +1,16 @@
 import './card.css'
 
-export default function Card() {
+interface CardProps {
+    page: string;
+    link: string;
+}
+
+export default function Card({ page, link }: CardProps) {
     return(
-        <div>HEI</div>
+        <>
+            <a href={link} className='Card'>
+                {page}
+            </a>
+        </>
     )
 }

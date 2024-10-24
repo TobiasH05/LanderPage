@@ -3,7 +3,9 @@ import Card from './components/card/card';
 
 function App() {
   return (
-    <Card />
+    <div className='Card'>
+      <Card link='https://www.youtube.com/' page='placeholder'/>
+    </div>
   );
 }
 
