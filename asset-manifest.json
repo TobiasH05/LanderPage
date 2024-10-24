@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LanderPage/static/css/main.f949532a.css",
+    "main.js": "/LanderPage/static/js/main.d4b09668.js",
+    "static/js/453.0fe4a670.chunk.js": "/LanderPage/static/js/453.0fe4a670.chunk.js",
+    "index.html": "/LanderPage/index.html",
+    "main.f949532a.css.map": "/LanderPage/static/css/main.f949532a.css.map",
+    "main.d4b09668.js.map": "/LanderPage/static/js/main.d4b09668.js.map",
+    "453.0fe4a670.chunk.js.map": "/LanderPage/static/js/453.0fe4a670.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f949532a.css",
+    "static/js/main.d4b09668.js"
+  ]
+}
