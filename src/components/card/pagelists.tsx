@@ -1,9 +1,15 @@
 export const names: string[] = [
     "YouTube",
-    "Netflix"
+    "Netflix",
+    "placeholder",
+    "placeholder",
+    "placeholder"
 ]
 
 export const links: string[] = [
     "https://www.youtube.com/",
-    "https://www.netflix.com/no/"
+    "https://www.netflix.com/no/",
+    "https://www.youtube.com/",
+    "https://www.youtube.com/",
+    "https://www.youtube.com/"
 ]
