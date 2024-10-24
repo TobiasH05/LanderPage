@@ -1,15 +1,15 @@
 import './card.css'
 
 interface CardProps {
-    page: string;
+    name: string;
     link: string;
 }
 
-export default function Card({ page, link }: CardProps) {
+export default function Card({ name, link }: CardProps) {
     return(
         <>
             <a href={link} className='Card'>
-                {page}
+                {name}
             </a>
         </>
     )
