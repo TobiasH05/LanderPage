@@ -2,7 +2,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    color: white;
+    color: #ababab;
     margin: 20px;
     height: 100px;
     width: 300px;
@@ -11,6 +11,7 @@
     border: #fff;
     border-radius: 5px;
     place-self: center;
+    transition: 0.1s;
 }
 
 .Card:hover{

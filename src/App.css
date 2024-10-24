@@ -5,4 +5,14 @@ body{
 .Cards{
   display: grid;
   grid-template-columns: repeat(4, 1fr);
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.Searchbar-container{
+  padding-top: 70px;
+  padding-bottom: 30px;
+  max-width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
 }
